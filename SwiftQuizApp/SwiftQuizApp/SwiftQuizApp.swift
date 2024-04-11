@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct SwiftQuizAppApp: App {
+struct SwiftQuizApp: App {
     var body: some Scene {
         WindowGroup {
             QuizView()
